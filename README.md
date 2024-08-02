@@ -159,7 +159,7 @@ fun CountriesScreen(viewModel: CountriesViewModel = hiltViewModel()) {
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/CountryApp.git
+   git clone https://github.com/Jockzan/graphql-mvvm-cleanarch.git
    ```
 
 2. Open the project in Android Studio.
